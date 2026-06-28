@@ -6,13 +6,13 @@
 
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 720p **
-http://100.126.47.112:6878/ace/getstream?id=20086a76248efe8d5230c15d41c69bae8fa6381c
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 720p **
 http://100.126.47.112:6878/ace/getstream?id=f16d68fa5ff64f3894a45062ca28e4e66f142c6a
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 1080p **
-http://100.126.47.112:6878/ace/getstream?id=f8b0eae8fda973cf426311541d1668aa592f0a8c
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 720p **
+http://100.126.47.112:6878/ace/getstream?id=20086a76248efe8d5230c15d41c69bae8fa6381c
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 1080p **
 http://100.126.47.112:6878/ace/getstream?id=02be332ebead0484a5354fa25e97b6833b8b129e
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 1080p **
+http://100.126.47.112:6878/ace/getstream?id=f8b0eae8fda973cf426311541d1668aa592f0a8c
 #EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 1 *
 http://100.126.47.112:6878/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507
 #EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 1 **
